@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>CommitTest__c.CommitField__c</members>
-        <name>CustomField</name>
+        <members>CreateAcc1</members>
+        <members>CreateAcc11</members>
+        <members>CreateAcc4</members>
+        <members>CreateAcc5</members>
+        <members>CreateAcc6</members>
+        <name>ApexClass</name>
     </types>
-    <types>
-        <members>CommitTest__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>CommitTest__c-CommitTest Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>CommitTest__c</members>
-        <name>SharingRules</name>
-    </types>
-    <version>33.0</version>
+    <version>34.0</version>
 </Package>
