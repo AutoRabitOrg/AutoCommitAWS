@@ -2,8 +2,8 @@ public Class CreatAc1554
 {
 public Account createAccount(String name)  //method to create account
 {
-Account acc1 = new Account();
-acc1.Name = name;
-return acc1;
+Account acc11 = new Account();
+acc11.Name = name;
+return acc11;
 }
 }
