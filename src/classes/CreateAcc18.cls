@@ -1,4 +1,4 @@
-public Class CreateAcc149
+public Class CreateAcc18
 {
 public Account createAccount(String name)  //method to create account
 {
