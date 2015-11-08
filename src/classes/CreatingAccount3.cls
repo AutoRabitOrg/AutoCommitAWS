@@ -1,6 +1,6 @@
 public Class CreatingAccount3
 {
-public Account createAccount(String name)  //create account test
+public Account createAccount(String name)  //create 
 { 
 //
 Account acc2 = new Account();
